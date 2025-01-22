@@ -1,0 +1,32 @@
+# .gitignore
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Next.js build output
+.next/
+
+# Next.js static files
+out/
+
+# Other files
+.DS_Store
+
+frontend-old/
+backend/node_modules/
+frontend/nrl-dashboard/node_modules/
+frontend/nrl-dashboard/.next/
