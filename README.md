@@ -66,7 +66,7 @@ cd NRL-analytics-platform/backend
 npm install
 ```
 
-3. Create a .env file in the root directory with the following content:
+3. Create a .env file in the backend directory with the following content:
 
 ```sh
 DB_HOST=<DB_HOST>
