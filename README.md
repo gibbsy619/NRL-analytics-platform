@@ -35,7 +35,6 @@ NRL-analytics-platform/
 │   │   ├── package.json
 │   │   ├── postcss.config.mjs
 │   │   ├── public/
-│   │   ├── README.md
 │   │   ├── src/
 │   │   ├── tailwind.config.mjs
 ├── frontend-old/
